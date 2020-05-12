@@ -100,7 +100,7 @@ body {
       .heading-primary--main {
         letter-spacing: 1rem;
         font-family: 5rem;
-        font-size: 3rem; } }
+        font-size: 4rem; } }
   .heading-primary--sub {
     display: block;
     font-size: 2rem;
@@ -109,7 +109,7 @@ body {
     @media only screen and (max-width: 37.5em) {
       .heading-primary--sub {
         letter-spacing: .5rem;
-        font-size: 1.5rem; } }
+        font-size: 2rem; } }
 
 .heading-secondary {
   font-size: 3.5rem;
@@ -126,7 +126,7 @@ body {
       font-size: 3rem; } }
   @media only screen and (max-width: 37.5em) {
     .heading-secondary {
-      font-size: 1.5rem; } }
+      font-size: 2.5rem; } }
 
 .heading-tertiary {
   font-size: 1.6rem;
